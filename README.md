@@ -1,9 +1,9 @@
 - - - -
-#### [iMakeWebsites.co](https://imakewebsites.co) | [Interpretiv](https://interpretiv.com) | [LinkedIn](https://www.linkedin.com/in/alex-zarov-5a924727) | [Twitter](https://twitter.com/TriexDev) | [Telegram](http://t.me/Triexu)
+<center>#### [iMakeWebsites.co](https://imakewebsites.co) | [Interpretiv](https://interpretiv.com) | [LinkedIn](https://www.linkedin.com/in/alex-zarov-5a924727) | [Twitter](https://twitter.com/TriexDev) | [Telegram](http://t.me/Triexu)</center>
 - - - -
 
 <p align="center">
-	<img src="cyberpunk.gif?raw=true" width="100%" height="100%"/>
+	<img src="code.gif?raw=true" width="100%" height="100%"/>
 	<i><h1 align="center"> <code>"What can I do for you?"</code> </h1></i>
 </p>
 
