@@ -9,7 +9,7 @@
 
 <hr />
 
-| `iDoBlockChain Work & Upcoming`  |
+| `iDoBlockChain Public Work & Upcoming`  |
 | ------------- |
 | <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/aeterna-ai">`Aeterna.ai`</a><br/><center><i>Extending Reality (XR), TBA</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/ONE1DeFi">`ONE1DeFi`</a><br/><center><i>DeFi Infrastructure, TBA</i></center>  |
