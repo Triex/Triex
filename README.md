@@ -1,5 +1,5 @@
 - - - -
-<h4 align="center"><a href="https://imakewebsites.co">iMakeWebsites.co</a> | <a href="https://interpretiv.com">Interpretiv</a> | <a href="https://www.linkedin.com/in/alex-zarov-5a924727">LinkedIn</a> | <a href="https://twitter.com/TriexDev">Twitter</a> | <a href="http://t.me/Triexu">Telegram</a></h4>
+<h4 align="center"><a href="https://imakewebsites.co">iMakeWebsites.co</a> | <a href="https://interpretiv.com">Interpretiv</a> | <a href="https://www.linkedin.com/in/alex-zarov-5a924727">LinkedIn</a> | <a href="https://twitter.com/TriexDev">Twitter</a> | <a href="http://t.me/TriexDev">Telegram</a></h4>
 
 - - - -
 
