@@ -13,7 +13,7 @@
 | `iDoBlockChain Public Work & Upcoming`  |
 | ------------- |
 | <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/aeterna-ai">`Aeterna.ai`</a><br/><center><i>Extending Reality (XR), TBA</i></center>  |
-| <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/ONE1DeFi">`ONE1DeFi`</a><br/><center><i>DeFi Infrastructure, TBA</i></center>  |
+| <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/One1Labs">`One1Labs`</a><br/><center><i>DeFi & Crypto Infrastructure for users, projects, investors and real life businesses alike, TBA</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/ONE1DeFi/OnlyApes.co">`OnlyApes.co`</a><br/><center><i>Coin Vote project; with gamification and future crypto integration, TBA</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/WHATdaHEC">`WHATdaHEC`</a><br/><center><i>Helping develop a new idea for a reflection Token, incepted 22/2/22</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/Cryptter-app">`Cryptter App/dApp`</a><br/><center><i>Cryptter brings DeFi Easy Access to the best influencers for<br/>Promotion of your Token Launch or Project. TBA</i></center>  |
