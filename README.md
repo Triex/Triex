@@ -22,8 +22,9 @@
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/lukso-network/network-deposit-launchpad">`LUKSO Network Deposit Launchpad`</a><br/><center><i>Validator Launchpad dApp Design and Deveopment.</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/DuiToken/DuiToken">`DuiToken`</a><br/><center><i>The dev notes & README of a crypto token / meme-project,<br/>for which I helped develop & manage the token technical side.</i></center>  |
 
-# <g-emoji class="g-emoji" alias="v" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png"><img class="emoji" alt="v" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png"></g-emoji>
-
 ---
 
 Want to support me doing more free stuff? <a href="https://buymeacoffee.com/Triex">BuyMeACoffee</a>
+
+# <g-emoji class="g-emoji" alias="v" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png"><img class="emoji" alt="v" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png"></g-emoji>
+
