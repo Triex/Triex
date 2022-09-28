@@ -24,6 +24,13 @@
 
 ---
 
+| `TradingView Indicators`  |
+| ------------- |
+| <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/Triex/TriexDev-SuperBuySellTrend-TradingView-Trend-Indicator">`SuperBuySellTrend (SBST/SBST+)`</a><br/><center><i>A minimal but effective buy/sell indicator, while SBST+ was made<br />to be used as a full suite - which even free users can utilise.</i></center>  |
+| <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/Triex/TriexDev-Liquidation-Rekt-Levels-TradingView-Indicator">`Liquidation Rekt Levels`</a><br/><center><i>Shows likely points which whales move to during manipulation phases,<br/>simple indicator which lets you see where positions will be liquidated<br/>based on default leverage levels. Allows time offset.</i></center>  |
+
+---
+
 Want to support me doing more free stuff? <a href="https://buymeacoffee.com/Triex">BuyMeACoffee</a>
 
 # <g-emoji class="g-emoji" alias="v" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png"><img class="emoji" alt="v" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png"></g-emoji>
