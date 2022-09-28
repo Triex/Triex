@@ -26,7 +26,8 @@
 
 | `TradingView Indicators`  |
 | ------------- |
-| <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/Triex/TriexDev-SuperBuySellTrend-TradingView-Trend-Indicator">`SuperBuySellTrend (SBST/SBST+)`</a><br/><center><i>A minimal but effective buy/sell indicator, while SBST+ was made<br />to be used as a full suite - which even free users can utilise.</i></center>  |
+| <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/Triex/TriexDev-SuperBuySellTrend-TradingView-Trend-Indicator">`SuperBuySellTrend (SBST)`</a><br/><center><i>A minimal but effective buy/sell indicator</i></center>  |
+| <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/Triex/TriexDev-SuperBuySellTrend-TradingView-Trend-Indicator/tree/master/sbst-plus">`SuperBuySellTrend Plus (SBST+)`</a><br/><center><i>SBST+ originally for personal usage, was made to be<br />a single indicator "full suite" - which even free users can utilise.</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/Triex/TriexDev-Liquidation-Rekt-Levels-TradingView-Indicator">`Liquidation Rekt Levels`</a><br/><center><i>Shows likely points which whales move to during manipulation phases,<br/>simple indicator which lets you see where positions will be liquidated<br/>based on default leverage levels. Allows time offset.</i></center>  |
 
 ---
