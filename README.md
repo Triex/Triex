@@ -13,7 +13,7 @@
 | `iDoBlockChain Public Work & Upcoming`  |
 | ------------- |
 | <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/aeterna-ai">`Aeterna.ai`</a><br/><center><i>Extending Reality (XR), TBA</i></center>  |
-| <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/One1Labs">`One1Labs`</a><br/><center><i>DeFi & Crypto Infrastructure for users, projects, investors and real life businesses alike, TBA</i></center>  |
+| <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/One1Labs">`One1Labs`</a><br/><center><i>DeFi & Crypto Infrastructure for users, projects, investors and real life businesses alike.</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/FKInflation">`FK Inflation`</a><br/><center><i>Lead developement on a never-before-done/World First Token Mechanism - pending team launch</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/ONE1DeFi/OnlyApes.co">`OnlyApes.co`</a><br/><center><i>Coin Vote project; with gamification and future crypto integration, TBA</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/SpaceWormETH">`SpaceWorm`</a><br/><center><i>Developed a solidity contract (with instant burn, which deletes tokens<br />from supply/existence, as well as auto-liquidity in-token only, on every transaction)<br />+ website + token data API, Coin Data/Dashboard, DeFi tools</i></center>  |
