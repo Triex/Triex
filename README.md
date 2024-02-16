@@ -14,14 +14,14 @@
 | ------------- |
 | <img src="arrow.svg?raw=true" width="20px" height="20px" /> <a href="https://github.com/aeterna-ai">`Aeterna.ai`</a><br/><center><i>Extending Reality (XR), TBA</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/One1Labs">`One1Labs`</a><br/><center><i>DeFi & Crypto Infrastructure for users, projects, investors and real life businesses alike, TBA</i></center>  |
-| <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/FKInflation">`FK Inflation`</a><br/><center><i>Leading developement on a never-before-done/World First Token Mechanism</i></center>  |
+| <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/FKInflation">`FK Inflation`</a><br/><center><i>Lead developement on a never-before-done/World First Token Mechanism - pending team launch</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/ONE1DeFi/OnlyApes.co">`OnlyApes.co`</a><br/><center><i>Coin Vote project; with gamification and future crypto integration, TBA</i></center>  |
-| <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/SpaceWormETH">`SpaceWorm`</a><br/><center><i>Developed a solidity contract (with instant burn, which deletes tokens<br />from supply/existence, as well as auto-liquidity in-token only, on every transaction)<br />+ website + token data API, TBA: Dashboard / DeFi tools</i></center>  |
-| <img src="arrow.svg" width="20px" height="20px" /> <a href="https://Wormhub.app">`Wormhub.app`</a><br/><center><i>Token Dashboard & broader DeFi, TVL & data aggregation tools.<br />Currently under construction for SpaceWorm</i></center>  |
+| <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/SpaceWormETH">`SpaceWorm`</a><br/><center><i>Developed a solidity contract (with instant burn, which deletes tokens<br />from supply/existence, as well as auto-liquidity in-token only, on every transaction)<br />+ website + token data API, Coin Data/Dashboard, DeFi tools</i></center>  |
+| <img src="arrow.svg" width="20px" height="20px" /> <a href="https://Wormhub.app">`Wormhub.app`</a><br/><center><i>Token Dashboard & broader DeFi, TVL & data aggregation tools.<br />Developed for SpaceWorm</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/RakiGuardians">`RakiGuardians`</a><br/><center><i>Helped develop a solidity contract (with some unique tokenomics features)</i></center>  |
-| <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/Cryptter-app">`Cryptter App/dApp`</a><br/><center><i>Cryptter brings DeFi Easy Access to the best influencers for<br/>Promotion of your Token Launch or Project. TBA</i></center>  |
+| <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/Cryptter-app">`Cryptter App/dApp`</a><br/><center><i>Designed for DeFi, Easy Access to the best influencers for<br/>Promotion of your Token Launch or Project. Pending team launch</i></center>  |
 | <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/Triex/network-deposit-launchpad">`LUKSO Network Deposit Launchpad`</a><br/><center><i>Validator Launchpad dApp Design and Deveopment.</i></center>  |
-| <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/DuiToken/DuiToken">`DuiToken`</a><br/><center><i>The dev notes & README of a crypto token / meme-project,<br/>for which I helped develop & manage the token technical side.</i></center>  |
+| <img src="arrow.svg" width="20px" height="20px" /> <a href="https://github.com/DuiToken/DuiToken">`DuiToken`</a><br/><center><i>The dev notes & README of a crypto token / meme-project,<br/>for which I helped manage the token technical side.</i></center>  |
 
 ---
 
