@@ -85,7 +85,7 @@
   <tr>
     <td>
       <a href="#"><b>Mortgage Brokerage Dashboard</b></a><br/>
-      <i>Customer Portal, heavily integrated Staff Dashboard, workflow management, mobile & desktop app, landing page, future potential public release.</i>
+      <i>Customer portal, heavily integrated staff dashboard, AI integration, automation, workflow management, mobile & desktop app, landing page, future potential public release.</i>
     </td>
   </tr>
   <tr>
