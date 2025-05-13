@@ -19,7 +19,7 @@
 
 <h1>🚀 Open Source Projects</h1>
 
-<table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
+<table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.2em;">
   <tr>
     <td>
       <a href="https://github.com/Triex/GitHub-Version-Sync"><b>GitHub Version Sync</b></a>
@@ -44,7 +44,7 @@
 
 <h1>🤖 AI Projects</h1>
 
-<table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
+<table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.2em;">
   <tr>
     <td>
       <a href="https://github.com/aeterna-ai"><b>Aeterna.ai</b></a>
@@ -75,7 +75,7 @@
 
 <h1>💻 Software Development</h1>
 
-<table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
+<table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.2em;">
   <tr>
     <td>
       <a href="https://marketsphere.org"><b>MarketSphere Technologies Pty Ltd</b></a><br/>
@@ -98,12 +98,12 @@
 
 <h1>📈 TradingView Indicators</h1>
 
-<table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
+<table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.2em;">
   <tr>
     <td>
       <a href="https://github.com/Triex/TriexDev-SuperBuySellTrend-TradingView-Trend-Indicator"><b>SuperBuySellTrend (SBST)</b></a>
       <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"/><br/>
-      <i>A minimal but effective buy/sell indicator. Originally made for personal use.</i>
+      <i>A minimal but effective buy/sell indicator. Originally made for personal use.</i><br />
       <p><img src="https://img.shields.io/github/stars/Triex/TriexDev-SuperBuySellTrend-TradingView-Trend-Indicator?style=social" alt="Stars"/></p>
     </td>
   </tr>
@@ -124,7 +124,7 @@
 
 <h1>🔗 Blockchain Projects</h1>
 
-<table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
+<table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.2em;">
   <tr>
     <td>
       <a href="https://github.com/One1Labs"><b>One1Labs</b></a><br/>
