@@ -1,8 +1,3 @@
-<style>
-  div {
-    font-size: 18px;
-  }
-</style>
 <!-- Header Section -->
 <div align="center">
 
@@ -15,26 +10,28 @@
 
 <p align="center">
 	<img src="code.gif?raw=true" width="100%" height="100%"/>
-	<i><h1 align="center"> <code>"What can I do for you?"</code> </h1></i>
+	<h1 align="center"><i><code>"What can I do for you?"</code></i></h1>
 </p>
 
 </div>
 
 ---
 
-## 🚀 Open Source Projects
+<h1 align="center">🚀 Open Source Projects</h1>
 
-<table>
+<table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
   <tr>
     <td>
-      <a href="https://github.com/Triex/GitHub-Version-Sync"><b>GitHub Version Sync</b></a><br/>
+      <a href="https://github.com/Triex/GitHub-Version-Sync"><b>GitHub Version Sync</b></a>
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"/><br/>
       <p><i>Automated tool that synchronizes version numbers across your project files, ensuring consistency throughout your codebase. No more manual version updates!</i></p>
       <p><img src="https://img.shields.io/github/stars/Triex/GitHub-Version-Sync?style=social" alt="Stars"/></p>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="#"><b>Mobile AI Bridge</b></a><br/>
+      <a href="#"><b>Mobile AI Bridge</b></a>
+      <img src="https://img.shields.io/badge/Status-Testing-orange" alt="Status"/><br/>
       <p><i>AI Bridge for mobile devices, connecting to well known technology (currently personal use, TBA; open source)</i></p>
     </td>
   </tr>
@@ -45,24 +42,27 @@
   </tr>
 </table>
 
-## 🤖 AI Projects
+<h1 align="center">🤖 AI Projects</h1>
 
-<table>
+<table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
   <tr>
     <td>
-      <a href="https://github.com/aeterna-ai"><b>Aeterna.ai</b></a><br/>
+      <a href="https://github.com/aeterna-ai"><b>Aeterna.ai</b></a>
+      <img src="https://img.shields.io/badge/Status-In_Development-blue" alt="Status"/><br/>
       <p><i>AI-powered Extended Reality (XR) platform pushing the boundaries of immersive experiences.</i></p>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="#"><b>AI Agent Service</b></a><br/>
-      <p><i>I have developed an AI Agent Service that can automate 95% of the worlds jobs in the next 6-12 months</i></p>
+      <a href="#"><b>AI Agent Service</b></a>
+      <img src="https://img.shields.io/badge/Status-Testing-orange" alt="Status"/><br/>
+      <p><i>Advanced AI Agent platform capable of automating complex workflows through sophisticated task reasoning and execution</i></p>
     </td>
   </tr>
   <tr>
     <td>
       <a href="#"><b>Windsurf/Cursor/Cascade AI Assistant VSCode Extension</b></a><br/>
+      <img src="https://img.shields.io/badge/Status-Testing-orange" alt="Status"/><br/>
       <p><i>TBA; AI Assistant for VSCode, deep custom context, learning, fixed all annoyances in other AI IDEs</i></p>
     </td>
   </tr>
@@ -73,28 +73,43 @@
   </tr>
 </table>
 
-## 💻 Software Development
+<h1 align="center">💻 Software Development</h1>
 
-<table>
+<table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
   <tr>
     <td>
-      <p><i>Various web and mobile applications utilising a range of frameworks and technologies.</i></p>
+      <a href="https://imakewebsites.co"><b>Web Application Development</b></a><br/>
+      <p><i>Full-stack web applications using React, Next.js, and Node.js with Bun for optimal performance.</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#"><b>Mobile Applications</b></a><br/>
+      <p><i>Cross-platform mobile apps built with modern frameworks, optimized for performance and usability.</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#"><b>UI/UX Design</b></a><br/>
+      <p><i>Modern, intuitive and efficient interfaces designed for exceptional user experiences.</i></p>
     </td>
   </tr>
 </table>
 
-## 📈 TradingView Indicators
+<h1 align="center">📈 TradingView Indicators</h1>
 
-<table>
+<table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
   <tr>
     <td>
-      <a href="https://github.com/Triex/TriexDev-SuperBuySellTrend-TradingView-Trend-Indicator"><b>SuperBuySellTrend (SBST)</b></a><br/>
+      <a href="https://github.com/Triex/TriexDev-SuperBuySellTrend-TradingView-Trend-Indicator"><b>SuperBuySellTrend (SBST)</b></a>
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"/><br/>
       <p><i>A minimal but effective buy/sell indicator. Originally made for personal use.</i></p>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Triex/TriexDev-SuperBuySellTrend-TradingView-Trend-Indicator/tree/master/sbst-plus"><b>SuperBuySellTrend Plus (SBST+)</b></a><br/>
+      <a href="https://github.com/Triex/TriexDev-SuperBuySellTrend-TradingView-Trend-Indicator/tree/master/sbst-plus"><b>SuperBuySellTrend Plus (SBST+)</b></a>
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"/><br/>
       <p><i>SBST+ was made to be a "full suite" in a single indicator - which even free users can utilize.</i></p>
     </td>
   </tr>
@@ -106,9 +121,9 @@
   </tr>
 </table>
 
-## 🔗 Blockchain Projects
+<h1 align="center">🔗 Blockchain Projects</h1>
 
-<table>
+<table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
   <tr>
     <td>
       <a href="https://github.com/One1Labs"><b>One1Labs</b></a><br/>
@@ -147,7 +162,9 @@
   </tr>
 </table>
 
-## 🛠️ Tech Stack
+<h1 align="center">🛠️ Tech Stack</h1>
+
+<div align="center">
 
 ![Zig](https://img.shields.io/badge/-Zig-00ADD8?style=flat-square&logo=zig&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -155,34 +172,41 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-00ADD8?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-<!-- ## 📊 GitHub Stats
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Triex&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
+<!-- <h1 align="center">📊 GitHub Stats</h1>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Triex&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div> -->
 
 ---
 
-## 🔍 Find Me Around The Web
+<h1 align="center">🔍 Find Me Around The Web</h1>
 
-- Sharing professional updates on [LinkedIn](https://www.linkedin.com/in/alex-zarov-5a924727)
-- Tweeting about tech on [Twitter](https://twitter.com/TriexDev)
-- Professional website at [iMakeWebsites.co](https://imakewebsites.co)
-- _Above links may not be maintained, better to contact on github_
+<div align="center">
+<p><b>💬 Sharing professional updates on <a href="https://www.linkedin.com/in/alex-zarov-5a924727">LinkedIn</a></b></p>
+<p><b>🐦 Tweeting about tech on <a href="https://twitter.com/TriexDev">Twitter</a></b></p>
+<p><b>🌐 Professional website at <a href="https://imakewebsites.co">iMakeWebsites.co</a></b></p>
+<p><i><b>⚠️ Above links may not be maintained, better to contact on GitHub</b></i></p>
+</div>
 
 ---
 
 <div align="center">
 
-<p>Want to support my open source work?</p>
+<h3>Want to support my open source work?</h3>
 
-<a href="https://buymeacoffee.com/Triex"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30" /></a>
+<a href="https://buymeacoffee.com/Triex"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40" /></a>
 
-<img class="emoji" alt="v" height="25" width="25" src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png">
+<img class="emoji" alt="v" height="30" width="30" src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png">
 
 </div>
 
