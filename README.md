@@ -78,20 +78,20 @@
 <table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
   <tr>
     <td>
+      <a href="#"><b>AI Architecture</b></a><br/>
+      <i>Building the digital brains of tomorrow, turning sci-fi dreams into reality.</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://imakewebsites.co"><b>Web Application Development</b></a><br/>
-      <i>Full-stack web applications using React, Next.js, and Node.js with Bun for optimal performance.</i>
+      <i>Crafting digital experiences that make users go "Whoa!".</i>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="#"><b>Mobile Applications</b></a><br/>
-      <i>Cross-platform mobile apps built with modern frameworks, optimized for performance and usability.</i>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="#"><b>UI/UX Design</b></a><br/>
-      <i>Modern, intuitive and efficient interfaces designed for exceptional user experiences.</i>
+      <a href="#"><b>Blockchain Development</b></a><br/>
+      <i>Forging unbreakable chains of code that revolutionise finance. Building the decentralised future.</i>
     </td>
   </tr>
 </table>
