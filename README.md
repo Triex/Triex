@@ -10,7 +10,7 @@
 
 <p align="center">
 	<img src="code.gif?raw=true" width="100%" height="100%"/>
-	<i><h2 align="center"> <code>What can I do for you?</code> </h2></i>
+	<i><h1 align="center"> <code>"What can I do for you?"</code> </h1></i>
 </p>
 
 </div>
