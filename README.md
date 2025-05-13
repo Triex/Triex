@@ -1,3 +1,8 @@
+<style>
+  div {
+    font-size: 18px;
+  }
+</style>
 <!-- Header Section -->
 <div align="center">
 
