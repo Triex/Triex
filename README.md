@@ -78,20 +78,14 @@
 <table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
   <tr>
     <td>
-      <a href="#"><b>AI Architecture</b></a><br/>
-      <i>Building the digital brains of tomorrow, turning sci-fi dreams into reality.</i>
+      <a href="https://marketsphere.org"><b>MarketSphere Technologies Pty Ltd</b></a><br/>
+      <i>Social Enterprise developing various tech, including the MAREO and PocketGrocer platforms. Reducing cost of living, improving life for humans through technology.</i>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://imakewebsites.co"><b>Web Application Development</b></a><br/>
-      <i>Crafting digital experiences that make users go "Whoa!".</i>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="#"><b>Blockchain Development</b></a><br/>
-      <i>Forging unbreakable chains of code that revolutionise finance. Building the decentralised future.</i>
+      <a href="https://iMakeWebsites.co"><b>AI Architecture</b>, <b>Blockchain Development</b>, <b>Web Application Engineering</b></a><br/>
+      <i>Crafting all sorts of solutions and technologies.</i>
     </td>
   </tr>
 </table>
