@@ -24,7 +24,7 @@
     <td>
       <a href="https://github.com/Triex/GitHub-Version-Sync"><b>GitHub Version Sync</b></a>
       <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"/><br/>
-      <p><i>Automated tool that synchronizes version numbers across your project files, ensuring consistency throughout your codebase. No more manual version updates!</i></p>
+      <p><i>Automated tool that synchronizes version numbers across your project files, ensuring consistency throughout your codebase. No more manual version updates or releases!</i></p>
       <p><img src="https://img.shields.io/github/stars/Triex/GitHub-Version-Sync?style=social" alt="Stars"/></p>
     </td>
   </tr>
