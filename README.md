@@ -104,6 +104,7 @@
       <a href="https://github.com/Triex/TriexDev-SuperBuySellTrend-TradingView-Trend-Indicator"><b>SuperBuySellTrend (SBST)</b></a>
       <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"/><br/>
       <i>A minimal but effective buy/sell indicator. Originally made for personal use.</i>
+      <p><img src="https://img.shields.io/github/stars/Triex/TriexDev-SuperBuySellTrend-TradingView-Trend-Indicator?style=social" alt="Stars"/></p>
     </td>
   </tr>
   <tr>
