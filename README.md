@@ -17,7 +17,7 @@
 
 ---
 
-<h1 align="center">🚀 Open Source Projects</h1>
+<h1>🚀 Open Source Projects</h1>
 
 <table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
   <tr>
@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-<h1 align="center">🤖 AI Projects</h1>
+<h1>🤖 AI Projects</h1>
 
 <table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
   <tr>
@@ -73,7 +73,7 @@
   </tr>
 </table>
 
-<h1 align="center">💻 Software Development</h1>
+<h1>💻 Software Development</h1>
 
 <table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
   <tr>
@@ -96,7 +96,7 @@
   </tr>
 </table>
 
-<h1 align="center">📈 TradingView Indicators</h1>
+<h1>📈 TradingView Indicators</h1>
 
 <table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
   <tr>
@@ -121,7 +121,7 @@
   </tr>
 </table>
 
-<h1 align="center">🔗 Blockchain Projects</h1>
+<h1>🔗 Blockchain Projects</h1>
 
 <table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.1em;">
   <tr>
