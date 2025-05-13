@@ -49,26 +49,26 @@
     <td>
       <a href="https://github.com/aeterna-ai"><b>Aeterna.ai</b></a>
       <img src="https://img.shields.io/badge/Status-In_Development-blue" alt="Status"/><br/>
-      <p><i>AI-powered Extended Reality (XR) platform pushing the boundaries of immersive experiences.</i></p>
+      <i>AI-powered Extended Reality (XR) platform pushing the boundaries of immersive experiences.</i>
     </td>
   </tr>
   <tr>
     <td>
       <a href="#"><b>AI Agent Service</b></a>
       <img src="https://img.shields.io/badge/Status-Testing-orange" alt="Status"/><br/>
-      <p><i>Advanced AI Agent platform capable of automating complex workflows through sophisticated task reasoning and execution</i></p>
+      <i>Advanced AI Agent platform capable of automating complex workflows through sophisticated task reasoning and execution</i>
     </td>
   </tr>
   <tr>
     <td>
       <a href="#"><b>Windsurf/Cursor/Cascade AI Assistant VSCode Extension</b></a><br/>
       <img src="https://img.shields.io/badge/Status-Testing-orange" alt="Status"/><br/>
-      <p><i>TBA; AI Assistant for VSCode, deep custom context, learning, fixed all annoyances in other AI IDEs</i></p>
+      <i>TBA; AI Assistant for VSCode, deep custom context, learning, fixed all annoyances in other AI IDEs</i>
     </td>
   </tr>
   <tr>
     <td>
-      <p><i>Many more AI projects in the works</i></p>
+      <i>Many more AI projects in the works</i>
     </td>
   </tr>
 </table>
@@ -79,19 +79,19 @@
   <tr>
     <td>
       <a href="https://imakewebsites.co"><b>Web Application Development</b></a><br/>
-      <p><i>Full-stack web applications using React, Next.js, and Node.js with Bun for optimal performance.</i></p>
+      <i>Full-stack web applications using React, Next.js, and Node.js with Bun for optimal performance.</i>
     </td>
   </tr>
   <tr>
     <td>
       <a href="#"><b>Mobile Applications</b></a><br/>
-      <p><i>Cross-platform mobile apps built with modern frameworks, optimized for performance and usability.</i></p>
+      <i>Cross-platform mobile apps built with modern frameworks, optimized for performance and usability.</i>
     </td>
   </tr>
   <tr>
     <td>
       <a href="#"><b>UI/UX Design</b></a><br/>
-      <p><i>Modern, intuitive and efficient interfaces designed for exceptional user experiences.</i></p>
+      <i>Modern, intuitive and efficient interfaces designed for exceptional user experiences.</i>
     </td>
   </tr>
 </table>
@@ -103,20 +103,20 @@
     <td>
       <a href="https://github.com/Triex/TriexDev-SuperBuySellTrend-TradingView-Trend-Indicator"><b>SuperBuySellTrend (SBST)</b></a>
       <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"/><br/>
-      <p><i>A minimal but effective buy/sell indicator. Originally made for personal use.</i></p>
+      <i>A minimal but effective buy/sell indicator. Originally made for personal use.</i>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Triex/TriexDev-SuperBuySellTrend-TradingView-Trend-Indicator/tree/master/sbst-plus"><b>SuperBuySellTrend Plus (SBST+)</b></a>
       <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"/><br/>
-      <p><i>SBST+ was made to be a "full suite" in a single indicator - which even free users can utilize.</i></p>
+      <i>SBST+ was made to be a "full suite" in a single indicator - which even free users can utilize.</i>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Triex/TriexDev-Liquidation-Rekt-Levels-TradingView-Indicator"><b>Liquidation Rekt Levels</b></a><br/>
-      <p><i>Shows likely points which whales move to during manipulation phases. Simple indicator which lets you see where positions will be liquidated based on default leverage levels. Allows time offset.</i></p>
+      <i>Shows likely points which whales move to during manipulation phases. Simple indicator which lets you see where positions will be liquidated based on default leverage levels. Allows time offset.</i>
     </td>
   </tr>
 </table>
@@ -127,42 +127,42 @@
   <tr>
     <td>
       <a href="https://github.com/One1Labs"><b>One1Labs</b></a><br/>
-      <p><i>DeFi & Crypto Infrastructure for users, projects, investors and real life businesses alike.</i></p>
+      <i>DeFi & Crypto Infrastructure for users, projects, investors and real life businesses alike.</i>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/FKInflation"><b>FK Inflation</b></a><br/>
-      <p><i>Lead development on a never-before-done/World First Token Mechanism - pending team launch.</i></p>
+      <i>Lead development on a never-before-done/World First Token Mechanism - pending team launch.</i>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/ONE1DeFi/OnlyApes.co"><b>OnlyApes.co</b></a><br/>
-      <p><i>Coin Vote project with gamification and future crypto integration, TBA.</i></p>
+      <i>Coin Vote project with gamification and future crypto integration, TBA.</i>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/SpaceWormETH"><b>SpaceWorm</b></a><br/>
-      <p><i>Developed a solidity contract with instant burn and auto-liquidity features, plus website, token data API, Coin Data/Dashboard, and DeFi tools.</i></p>
+      <i>Developed a solidity contract with instant burn and auto-liquidity features, plus website, token data API, Coin Data/Dashboard, and DeFi tools.</i>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://Wormhub.app"><b>Wormhub.app</b></a><br/>
-      <p><i>Token Dashboard & broader DeFi, TVL & data aggregation tools. Developed for SpaceWorm.</i></p>
+      <i>Token Dashboard & broader DeFi, TVL & data aggregation tools. Developed for SpaceWorm.</i>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Triex/network-deposit-launchpad"><b>LUKSO Network Deposit Launchpad</b></a><br/>
-      <p><i>Validator Launchpad dApp Design and Development.</i></p>
+      <i>Validator Launchpad dApp Design and Development.</i>
     </td>
   </tr>
 </table>
 
-<h1 align="center">🛠️ Tech Stack</h1>
+<h1>🛠️ Tech Stack</h1>
 
 <div align="center">
 
