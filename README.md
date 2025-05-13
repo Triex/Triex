@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
 
-# Alex Zarov (Triex)
+# TriexDev
 
 [![Website](https://img.shields.io/badge/Website-imakewebsites.co-blue?style=for-the-badge&logo=firefox-browser)](https://imakewebsites.co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alex-zarov-5a924727)
