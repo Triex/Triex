@@ -84,6 +84,12 @@
   </tr>
   <tr>
     <td>
+      <a href="#"><b>Mortgage Brokerage Dashboard</b></a><br/>
+      <i>Customer Portal, heavily integrated Staff Dashboard, workflow management, mobile & desktop app, landing page, future potential public release.</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://iMakeWebsites.co"><b>AI Architecture</b>, <b>Blockchain Development</b>, <b>Web Application Engineering</b></a><br/>
       <i>Crafting all sorts of solutions and technologies.</i>
     </td>
