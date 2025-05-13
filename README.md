@@ -79,7 +79,7 @@
   <tr>
     <td>
       <a href="https://marketsphere.org"><b>MarketSphere Technologies Pty Ltd</b></a><br/>
-      <i>Social Enterprise developing various tech, including the MAREO and PocketGrocer platforms. Reducing cost of living, improving life for humans through technology.</i>
+      <i>Social Enterprise developing various tech, including the MAREO, PocketGrocer & FairCompare platforms. Reducing cost of living, improving life for humans through technology.</i>
     </td>
   </tr>
   <tr>
