@@ -117,7 +117,8 @@
   <tr>
     <td>
       <a href="https://github.com/Triex/TriexDev-Liquidation-Rekt-Levels-TradingView-Indicator"><b>Liquidation Rekt Levels</b></a><br/>
-      <i>Shows likely points which whales move to during manipulation phases. Simple indicator which lets you see where positions will be liquidated based on default leverage levels. Allows time offset.</i>
+      <i>Shows likely points which whales move to during manipulation phases. Simple indicator which lets you see where positions will be liquidated based on default leverage levels. Allows time offset.</i><br />
+      <p><img src="https://img.shields.io/github/stars/Triex/TriexDev-Liquidation-Rekt-Levels-TradingView-Indicator?style=social" alt="Stars"/></p>
     </td>
   </tr>
 </table>
