@@ -22,10 +22,10 @@
 <table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.2em;">
   <tr>
     <td>
-      <a href="https://github.com/Triex/GitHub-Version-Sync"><b>GitHub Version Sync</b></a>
+      <a href="https://github.com/Triex/GitHub-VersionSync"><b>GitHub Version Sync</b></a>
       <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"/><br/>
       <p><i>Automated tool that synchronizes version numbers across your project files, ensuring consistency throughout your codebase. No more manual version updates or releases!</i></p>
-      <p><img src="https://img.shields.io/github/stars/Triex/GitHub-Version-Sync?style=social" alt="Stars"/></p>
+      <p><img src="https://img.shields.io/github/stars/Triex/GitHub-VersionSync?style=social" alt="Stars"/></p>
     </td>
   </tr>
   <tr>
