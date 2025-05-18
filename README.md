@@ -30,6 +30,14 @@
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/Triex/0x1"><b>0x1</b></a>
+      <img src="https://img.shields.io/badge/Status-Near_v0.1-purple" alt="Status"/><br/>
+      <p><i>Lightning-fast web framework for JavaScript/TypeScript with zero overhead and maximum performance, powered by Bun</i></p>
+      <p><a href="https://www.npmjs.com/package/0x1"><img src="https://img.shields.io/npm/v/0x1.svg?style=flat-square" alt="npm version"></a><a href="https://www.npmjs.com/package/0x1"><img src="https://img.shields.io/npm/dm/0x1.svg?style=flat-square" alt="npm downloads"></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="#"><b>Mobile AI Bridge</b></a>
       <img src="https://img.shields.io/badge/Status-Testing-orange" alt="Status"/><br/>
       <p><i>AI Bridge for mobile devices, connecting to well known technology (currently personal use, TBA; open source)</i></p>
