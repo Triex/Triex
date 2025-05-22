@@ -45,6 +45,13 @@
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/Triex/DeepZig-V3"><b>DeepZig V3</b></a>
+      <img src="https://img.shields.io/badge/Status-Proposal-orange" alt="Proposal"/><br/>
+      <p><i>High-performance Zig implementation of the DeepSeek V3 architecture with SIMD optimization, compile-time metaprogramming, and MoE support. Designed to bring the future of efficient LLM deployment across platforms.</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <p><i>Many more open source projects in the works</i></p>
     </td>
   </tr>
