@@ -55,6 +55,13 @@
 <table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.2em;">
   <tr>
     <td>
+      <a href="https://github.com/Triex/DeepZig-Consciousness"><b>DeepZig-Consciousness</b></a>
+      <img src="https://img.shields.io/badge/Status-Research_Proposal-orange" alt="Research Proposal"/><br/>
+      <p><i>Open Source Conscious Digital Intelligence - Multi-theory consciousness implementation proposal in Zig integrating IIT, Global Workspace Theory, Higher-Order Thought, and Predictive Processing. Comprehensive framework for consciousness research and evaluation with safety protocols.</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/Triex/DeepZig-V3"><b>DeepZig V3</b></a>
       <img src="https://img.shields.io/badge/Status-Proposal-orange" alt="Proposal"/><br/>
       <p><i>High-performance Zig implementation of the DeepSeek V3 architecture with SIMD optimization, compile-time metaprogramming, and MoE support. Designed to bring the future of efficient LLM deployment across platforms.</i></p>
