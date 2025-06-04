@@ -43,11 +43,6 @@
       <p><i>AI Bridge for mobile devices, connecting to well known technology (currently personal use, TBA; open source)</i></p>
     </td>
   </tr>
-  <tr>
-    <td>
-      <p><i>Many more open source projects in the works</i></p>
-    </td>
-  </tr>
 </table>
 
 <h1>🤖 AI Projects</h1>
@@ -90,7 +85,7 @@
   </tr>
   <tr>
     <td>
-      <i>Many more AI projects in the works</i>
+      <i>Many more AI projects in the works, some public / open source.</i>
     </td>
   </tr>
 </table>
