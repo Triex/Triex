@@ -9,6 +9,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-TriexDev-blue?style=for-the-badge&logo=telegram)](http://t.me/TriexDev)
 
 <p align="center">
+	<p><i>Engineer, innovator, and advocate for ethical AI development. Building systems for a smarter safer future.</i></p>
 	<img src="code.gif?raw=true" width="100%" height="100%"/>
 	<h1 align="center"><i><code>"What can I do for you?"</code></i></h1>
 </p>
@@ -40,7 +41,7 @@
     <td>
       <a href="#"><b>Mobile AI Bridge</b></a>
       <img src="https://img.shields.io/badge/Status-Testing-orange" alt="Status"/><br/>
-      <p><i>AI Bridge for mobile devices, connecting to well known technology (currently personal use, TBA; open source)</i></p>
+      <p><i>A mobile AI Bridge enabling seamless integration with widely adopted technologies / IDEs. Currently personal use. Open-source release pending.
     </td>
   </tr>
 </table>
@@ -50,14 +51,21 @@
 <table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.2em;">
   <tr>
     <td>
-      <a href="https://github.com/Triex/DeepZig-Consciousness"><b>DeepZig Consciousness</b></a>
-      <img src="https://img.shields.io/badge/Status-RetiredToEnsureResponsibleDevelopment-red" alt="Research Proposal"/><br/>
-      <p><i>Open Source Conscious Digital Intelligence - Multi-theory consciousness research paper & implementation proposal in Zig integrating various novel techniques. Comprehensive framework for consciousness research and evaluation with safety protocols.</i></p>
+      <a href="https://github.com/Triex/DeepZig-Consciousness"><b>Novel LLM Inference Engine & AI Architecture</b></a>
+      <img src="https://img.shields.io/badge/Status-NearStable-red" alt="Research Proposal"/><br/>
+      <p><i>High performance LLM implementation, training engines, research teams, with a goal of ethical AI development and ultimately democratising AI for all.</i></p>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Triex/DeepZig-V3"><b>DeepZig V3</b></a>
+      <a href="https://github.com/Triex/DeepZig-Consciousness"><b>DeepZig Consciousness (retired)</b></a>
+      <img src="https://img.shields.io/badge/Status-RetiredToEnsureResponsibleDevelopment-red" alt="Research Proposal"/><br/>
+      <p><i>Research and base architecture plans into consciousness in machine intelligence. Retired to ensure repsonsible development and prevent misuse. Further updates are under controlled, private development.</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Triex/DeepZig-V3"><b>DeepZig V3 (retired)</b></a>
       <img src="https://img.shields.io/badge/Status-RetiredToEnsureResponsibleDevelopment-red" alt=""/><br/>
       <p><i>High-performance Zig implementation of the DeepSeek V3 architecture with SIMD optimization, compile-time metaprogramming, and MoE support. Designed to bring the future of efficient LLM deployment across platforms.</i></p>
     </td>
