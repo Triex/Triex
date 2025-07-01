@@ -9,7 +9,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-TriexDev-blue?style=for-the-badge&logo=telegram)](http://t.me/TriexDev)
 
 <p align="center">
-	<p><i>Engineer, innovator, and advocate for ethical AI development. Building systems for a smarter safer future.</i></p>
+	<p><i>Engineer, innovator and advocate for ethical AI development. Building systems for a brighter future.</i></p>
 	<img src="code.gif?raw=true" width="100%" height="100%"/>
 	<h1 align="center"><i><code>"What can I do for you?"</code></i></h1>
 </p>
