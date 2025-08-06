@@ -104,7 +104,7 @@
     <td>
       <a href="https://x"><b>High Performance Hosting / Auto Deployment System</b></a>
       <img src="https://img.shields.io/badge/Status-In_Development-blue" alt="Status"/><br/>
-      <i>Enterprise-grade auto-deployment system with commit tracking and diff-based hosting. Like Vercel but optimized for maximum performance and efficiency.</i>
+      <i>Enterprise-grade auto-deployment system with commit tracking and diff-based hosting. Built to handle ultra-fast frameworks like 0x1 that hit performance bottlenecks on traditional platforms like Vercel/Cloudflare Pages due to Next.js/React overhead constraints.</i>
     </td>
   </tr>
   <tr>
