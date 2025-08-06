@@ -58,14 +58,14 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Triex/DeepR-Consciousness"><b>DeepRust / DeepZig / DeepC - Consciousness (retired)</b></a>
+      <a href="https://github.com/Triex/DeepR-Consciousness"><b>Advanced AI Consciousness Research (retired)</b></a>
       <img src="https://img.shields.io/badge/Status-RetiredToEnsureResponsibleDevelopment-red" alt="Research Proposal"/><br/>
       <p><i>Research and base architecture plans into consciousness in machine intelligence. Retired to ensure repsonsible development and prevent misuse. Further updates are under controlled, private development.</i></p>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Triex/DeepR-V3"><b>DeepRust / DeepZig / DeepC V3 (retired)</b></a>
+      <a href="https://github.com/Triex/DeepR-V3"><b>High-Performance LLM Architecture V3 (retired)</b></a>
       <img src="https://img.shields.io/badge/Status-RetiredToEnsureResponsibleDevelopment-red" alt=""/><br/>
       <p><i>High-performance implementation of the DeepSeek V3 architecture with significant memory optimization, key process metaprogramming, and MoE support. Designed to bring the future of efficient LLM deployment across platforms.</i></p>
     </td>
@@ -99,8 +99,14 @@
 </table>
 
 <h1>💻 Software Development</h1>
-
 <table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.2em;">
+  <tr>
+    <td>
+      <a href="https://x"><b>High Performance Hosting / Auto Deployment System</b></a>
+      <img src="https://img.shields.io/badge/Status-In_Development-blue" alt="Status"/><br/>
+      <i>Enterprise-grade auto-deployment system with commit tracking and diff-based hosting. Like Vercel but optimized for maximum performance and efficiency.</i>
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="https://marketsphere.org"><b>MarketSphere Technologies Pty Ltd</b></a><br/>
@@ -193,13 +199,13 @@
 
 <div align="center">
 
-![Zig](https://img.shields.io/badge/-Zig-00ADD8?style=flat-square&logo=zig&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Zig](https://img.shields.io/badge/-Zig-00ADD8?style=flat-square&logo=zig&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
