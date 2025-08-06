@@ -58,16 +58,16 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Triex/DeepR-Consciousness"><b>DeepZig / DeepRust / DeepC - Consciousness (retired)</b></a>
+      <a href="https://github.com/Triex/DeepR-Consciousness"><b>DeepRust / DeepZig / DeepC - Consciousness (retired)</b></a>
       <img src="https://img.shields.io/badge/Status-RetiredToEnsureResponsibleDevelopment-red" alt="Research Proposal"/><br/>
       <p><i>Research and base architecture plans into consciousness in machine intelligence. Retired to ensure repsonsible development and prevent misuse. Further updates are under controlled, private development.</i></p>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Triex/DeepR-V3"><b>DeepZig / DeepRust / DeepC V3 (retired)</b></a>
+      <a href="https://github.com/Triex/DeepR-V3"><b>DeepRust / DeepZig / DeepC V3 (retired)</b></a>
       <img src="https://img.shields.io/badge/Status-RetiredToEnsureResponsibleDevelopment-red" alt=""/><br/>
-      <p><i>High-performance implementation of the DeepSeek V3 architecture with SIMD optimization, compile-time metaprogramming, and MoE support. Designed to bring the future of efficient LLM deployment across platforms.</i></p>
+      <p><i>High-performance implementation of the DeepSeek V3 architecture with significant memory optimization, key process metaprogramming, and MoE support. Designed to bring the future of efficient LLM deployment across platforms.</i></p>
     </td>
   </tr>
   <tr>
