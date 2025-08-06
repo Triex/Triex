@@ -3,7 +3,7 @@
 
 # TriexDev
 
-[![Website](https://img.shields.io/badge/Website-imakewebsites.co-blue?style=for-the-badge&logo=firefox-browser)](https://imakewebsites.co)
+[![0x1](https://img.shields.io/badge/0x1-Framework-blue?style=for-the-badge&logo=firefox-browser)](https://0x1.onl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alex-zarov-5a924727)
 [![Twitter](https://img.shields.io/badge/Twitter-TriexDev-blue?style=for-the-badge&logo=twitter)](https://twitter.com/TriexDev)
 [![Telegram](https://img.shields.io/badge/Telegram-TriexDev-blue?style=for-the-badge&logo=telegram)](http://t.me/TriexDev)
@@ -229,7 +229,7 @@
 <div align="center">
 <p><b>💬 Sharing professional updates on <a href="https://www.linkedin.com/in/alex-zarov-5a924727">LinkedIn</a></b></p>
 <p><b>🐦 Tweeting about tech on <a href="https://twitter.com/TriexDev">Twitter</a></b></p>
-<p><b>🌐 Professional website at <a href="https://imakewebsites.co">iMakeWebsites.co</a></b></p>
+<p><b>🌐 Legacy professional website at <a href="https://imakewebsites.co">iMakeWebsites.co</a></b></p>
 <p><i><b>⚠️ Above links may not be maintained, better to contact on GitHub</b></i></p>
 </div>
 
