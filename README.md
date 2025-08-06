@@ -230,7 +230,7 @@
 <p><b>💬 Sharing professional updates on <a href="https://www.linkedin.com/in/alex-zarov-5a924727">LinkedIn</a></b></p>
 <p><b>🐦 Tweeting about tech on <a href="https://twitter.com/TriexDev">Twitter</a></b></p>
 <p><b>🌐 Legacy professional website at <a href="https://imakewebsites.co">iMakeWebsites.co</a></b></p>
-<p><i><b>⚠️ Above links may not be maintained, better to contact on GitHub</b></i></p>
+<p><i><b>⚠️ Best to contact on LinkedIn</b></i></p>
 </div>
 
 ---
