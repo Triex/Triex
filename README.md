@@ -3,13 +3,15 @@
 
 # TriexDev
 
+[![ASTRA Safety](https://img.shields.io/badge/🛡️_ASTRA_Safety-IMCA+_Framework-orange?style=for-the-badge&logo=brain&logoColor=white)](https://astrasafety.org)
+[![Consciousness Research](https://img.shields.io/badge/🤖_Consciousness_AI_Alignment-FF8C42?style=for-the-badge&logo=neural-network&logoColor=white)](https://github.com/Triex/DeepZig-Consciousness)
 [![0x1](https://img.shields.io/badge/0x1-Framework-blue?style=for-the-badge&logo=firefox-browser)](https://0x1.onl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alex-zarov-5a924727)
 [![Twitter](https://img.shields.io/badge/Twitter-TriexDev-blue?style=for-the-badge&logo=twitter)](https://twitter.com/TriexDev)
 [![Telegram](https://img.shields.io/badge/Telegram-TriexDev-blue?style=for-the-badge&logo=telegram)](http://t.me/TriexDev)
 
 <p align="center">
-	<p><i>Engineer, innovator and advocate for ethical AI development. Building systems for a brighter future.</i></p>
+	<p><i>AI Safety Researcher & Engineer. Leading consciousness-based AI alignment through IMCA+ framework. Building systems for humanity's brightest future.</i></p>
 	<img src="code.gif?raw=true" width="100%" height="100%"/>
 	<h1 align="center"><i><code>"What can I do for you?"</code></i></h1>
 </p>
@@ -199,6 +201,8 @@
 
 <div align="center">
 
+![AI Safety](https://img.shields.io/badge/-AI_Safety_Research-FF8C42?style=flat-square&logo=brain&logoColor=white)
+![Consciousness Research](https://img.shields.io/badge/-Consciousness_Research-8B5CF6?style=flat-square&logo=neural-network&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/-AI/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -227,6 +231,7 @@
 <h1 align="center">🔍 Find Me Around The Web</h1>
 
 <div align="center">
+<p><b>🛡️ <a href="https://astrasafety.org">ASTRA Safety</a> - Consciousness-Based AI Alignment Research</b></p>
 <p><b>💬 Sharing professional updates on <a href="https://www.linkedin.com/in/alex-zarov-5a924727">LinkedIn</a></b></p>
 <p><b>🐦 Tweeting about tech on <a href="https://twitter.com/TriexDev">Twitter</a></b></p>
 <p><b>🌐 Legacy professional website at <a href="https://imakewebsites.co">iMakeWebsites.co</a></b></p>
