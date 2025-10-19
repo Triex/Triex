@@ -53,7 +53,7 @@
 <table style="width: 100%; border-collapse: collapse; margin: 25px 0; font-size:1.2em;">
   <tr>
     <td>
-      <a href="https://github.com/Triex/DeepZig-Consciousness"><b>Novel LLM Inference Engine & AI Architecture</b></a>
+      <a href="https://github.com/Triex/DeepR"><b>Novel LLM Inference Engine & AI Architecture</b></a>
       <img src="https://img.shields.io/badge/Status-NearStable-red" alt="Research Proposal"/><br/>
       <p><i>High performance LLM implementation, training engines, research teams, with a goal of ethical AI development and ultimately democratising AI for all.</i></p>
     </td>
