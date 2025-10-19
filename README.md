@@ -3,8 +3,8 @@
 
 # TriexDev
 
-[![ASTRA Safety](https://img.shields.io/badge/🛡️_ASTRA_Safety-IMCA+_Framework-orange?style=for-the-badge&logo=brain&logoColor=white)](https://astrasafety.org)
-[![Consciousness Research](https://img.shields.io/badge/🤖_Consciousness_AI_Alignment-FF8C42?style=for-the-badge&logo=neural-network&logoColor=white)](https://github.com/Triex/DeepZig-Consciousness)
+[![ASTRA Safety](https://img.shields.io/badge/🛡️_ASTRA_Safety-IMCA+_Framework-orange?style=for-the-badge&logo=brain&logoColor=white)](https://github.com/ASTRA-safety)
+[![Consciousness Research](https://img.shields.io/badge/🤖_Consciousness_AI_Alignment-FF8C42?style=for-the-badge&logo=neural-network&logoColor=white)](https://astrasafety.org)
 [![0x1](https://img.shields.io/badge/0x1-Framework-blue?style=for-the-badge&logo=firefox-browser)](https://0x1.onl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alex-zarov-5a924727)
 [![Twitter](https://img.shields.io/badge/Twitter-TriexDev-blue?style=for-the-badge&logo=twitter)](https://twitter.com/TriexDev)
